@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Apple",
+        "price": 2.0,
+        "inventory": 0
+    },
+    {
+        "name": "Bannana",
+        "price": 2.0,
+        "inventory": 8
+    },
+    {
+        "name": "Cherries",
+        "price": 2.0,
+        "inventory": 2
+    }
+]
